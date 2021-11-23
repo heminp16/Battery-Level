@@ -7,7 +7,7 @@ I have included the zip file of the application for easy download. I also includ
 	`<string>1</string>`
 
 # Bypass MacOS errors
-### Complete only if you are downloading from this github, and not using the source code. 
+### Complete only if you are downloading from this GitHub, and not using the source code. 
 
 ## Error 1:
 
