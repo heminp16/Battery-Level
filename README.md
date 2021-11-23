@@ -1,4 +1,4 @@
-# Battery Level
+# Battery Level <img width="70" alt="Logo" align= "center" src="https://user-images.githubusercontent.com/88010681/142986531-beb2a2a9-9604-4bd9-b724-2e7ae1929669.png">
 
 I created an AppleScript that lets me know when my MacBook is fully charged. I have the application running in the background, so the icon does not appear in the dock. 
 
