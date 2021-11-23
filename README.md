@@ -9,4 +9,4 @@ I have included the zip file of the application for easy download. I also includ
 # Bypass MacOS error
 ![Error Screenshot](heminp16.github.com/repository/img/IMG_3010.jpg?raw=true)
 
-![header image](https://github.com/account/img/blob/master/IMG_3010.jpg)
+![header image](https://github.com/heminp16/img/blob/main/IMG_3010.jpg)
