@@ -7,4 +7,4 @@ I have included the zip file of the application for easy download. I also includ
 	`<string>1</string>`
 
 # Bypass MacOS error
-![Error Screenshot](https://prnt.sc/20km81q)
+![Error Screenshot](https://prnt.sc/20kmdpf)
