@@ -7,4 +7,4 @@ I have included the zip file of the application for easy download. I also includ
 	`<string>1</string>`
 
 # Bypass MacOS error
-![Error Screenshot](https://github.com/heminp16/img/blob/main/IMG_3010.jpg)
+![Error Screenshot](https://github.com/heminp16/img/blob/main/IMG_3010.jpg = 250x250)
