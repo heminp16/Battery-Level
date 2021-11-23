@@ -9,7 +9,7 @@ I have included the zip file of the application for easy download. I also includ
 # Bypass MacOS errors
 ### Complete only if you are downloading from this github, and not using the source code. 
 
-### Error 1:
+## Error 1:
 
 <img src= "https://user-images.githubusercontent.com/88010681/142982069-f9176c8d-6587-48ff-b14d-25a1ab92184b.png" width="25%" height="25%">
 
@@ -19,7 +19,7 @@ I have included the zip file of the application for easy download. I also includ
 <img src= "https://user-images.githubusercontent.com/88010681/142982529-b463512e-e73d-4bf2-92c4-3754e5fe3ae5.png" width= "40%" height="40%">
 
 
-### Error 2:
+## Error 2:
 
 <img src="https://user-images.githubusercontent.com/88010681/142974585-95f4d43b-fd1d-444d-8bac-3403342d6da7.jpg" width="25%" height="25%">
 
