@@ -14,7 +14,10 @@ I have included the zip file of the application for easy download. I also includ
 <img src= "https://user-images.githubusercontent.com/88010681/142982069-f9176c8d-6587-48ff-b14d-25a1ab92184b.png" width="25%" height="25%">
 
 1) Enter this command in Terminal: `chmod +x "/Applications/Battery Level.app/Contents/MacOS/applet"`
-2) Open System Preferences -> Security & Privacy -> General -> Press "Open Anyways." Refer to the image below (The picture says "Battery Level2", ignore that, yours should say "Battery Level."
+
+<img src= "https://user-images.githubusercontent.com/88010681/143195328-4d94502a-a291-4b57-addb-f304d1a1d027.png" width= "25%" height="25%">
+
+2) Open System Preferences -> Security & Privacy -> General -> Press <strong> "Open Anyways." </strong> Refer to the image below (The picture says "Battery Level2", ignore that, yours should say "Battery Level."
 
 <img src= "https://user-images.githubusercontent.com/88010681/142982529-b463512e-e73d-4bf2-92c4-3754e5fe3ae5.png" width= "40%" height="40%">
 
