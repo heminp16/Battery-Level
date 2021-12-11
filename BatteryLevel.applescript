@@ -6,16 +6,16 @@ on idle
 	
 	tell application "System Events"
 		
-		if batteryLevel ³ "99%" and batteryType = "charging" then
+		if batteryLevel Â³ "99%" and batteryType = "charging" then
 			display notification "Almost done charging"
 			
-		else if batteryLevel ³ "99%" and batteryType = "finishing charge" then
+		else if batteryLevel Â³ "99%" and batteryType = "finishing charge" then
 			display notification "Done charging"
 			
-		else if batteryLevel ³ "100%" and batteryType = "charged" then
+		else if batteryLevel Â³ "100%" and batteryType = "charged" then
 			display notification "Fully charged"
 			do shell script "sh -e /Users/hemin/Desktop/BatteryLevelApp/Notifi.txt" #Pushed.co API text file; pushing notification that MacBook is fully charged to iPhone
-			
+			#the previous line is not needed if you don't intend to push notification to your phone. 
 		else
 			
 			
