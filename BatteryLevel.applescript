@@ -14,7 +14,7 @@ on idle
 			
 		else if batteryLevel ³ "100%" and batteryType = "charged" then
 			display notification "Fully charged"
-			do shell script "sh -e /Users/hemin/Desktop/BatteryLevelApp/Notifi.txt" #Pushed.co API text file; pushing notification that MacBook is fully charged to iPhone
+			do shell script "sh -e ~/Desktop/BatteryLevelApp/Notifi.txt" #Pushed.co API text file; pushing notification that MacBook is fully charged to iPhone
 			#the previous line is not needed if you don't intend to push notification to your phone. 
 		else
 			
